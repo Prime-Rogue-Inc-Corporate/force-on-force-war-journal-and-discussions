@@ -7,7 +7,7 @@ the move costs each side on the way. The ruling is not decided. Vote and argue: 
 
 ## What happened
 
-[Kevin Duska](https://kevinduska.com) played Canada in the border-battle prototype (Coutts to Lethbridge) on
+[Kevin Duska](https://kevinduska.com) played Canada in the [border-battle prototype](https://forceonforce.si/play/) (Coutts to Lethbridge) on
 18 November 2026. By turn 9 the US had 15 strength in Lethbridge, 3 in Stirling and 4 in Magrath. Canada had
 abandoned the city. Its last four counters, 4 strength in all, had gone south behind the US army and sat in
 Sweet Grass, Montana, the US base. Coutts, Milk River and Warner were Canadian again. Del Bonita and Magrath
