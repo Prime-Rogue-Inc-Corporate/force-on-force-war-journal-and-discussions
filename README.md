@@ -11,6 +11,7 @@ reached. Each case says what happened, what the question is, the argument, and t
 | Case | Date | Where it came up | Proposed ruling | Status |
 |---|---|---|---|---|
 | [1. Canada holds Sweet Grass, the US holds Lethbridge](cases/001/README.md) | 18 Nov 2026 | [Border-battle prototype](https://forceonforce.si/play/) | Lethbridge decides the win. Add supply. A US win with a base lost is marginal, not decisive. | **Open**: [Poll 1](https://github.com/Prime-Rogue-Inc-Corporate/force-on-force-war-journal-and-discussions/discussions/2), [Poll 2](https://github.com/Prime-Rogue-Inc-Corporate/force-on-force-war-journal-and-discussions/discussions/3) |
+| [2. JTF 2 sits in Sweet Grass for twelve days](cases/002/README.md) | 19 Nov 2026 | [Border-battle prototype](https://forceonforce.si/play/), JTF 2 variant | None yet. What does a special-operations detachment do with twelve days behind the line, and how does the American public react? | **Open**: estimates pending |
 
 ## Taking part
 
