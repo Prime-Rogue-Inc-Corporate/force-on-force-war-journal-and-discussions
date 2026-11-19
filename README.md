@@ -15,7 +15,7 @@ reached. Each case says what happened, what the question is, the argument, and t
 
 ## Taking part
 
-Open cases are argued in this repository's **Discussions** tab. Each open case has a poll and a thread.
+Open cases are argued on the journal's [discussion board](https://github.com/Prime-Rogue-Inc-Corporate/force-on-force-war-journal-and-discussions/discussions). Each open case has a poll and a thread.
 Vote, and say why: the reasons matter more than the count. Kevin decides, and the ruling records what the
 discussion said and where it changed the outcome.
 
