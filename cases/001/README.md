@@ -3,7 +3,7 @@
 [Force on Force](https://forceonforce.si) war journal · 18 November 2026 · **Open for discussion**
 
 The rules gave this game to the United States, and the proposed ruling keeps it that way. What changes is what
-the move costs each side on the way. The ruling is not decided: [vote and argue in Discussions](https://github.com/Prime-Rogue-Inc-Corporate/force-on-force-war-journal-and-discussions/discussions).
+the move costs each side on the way. The ruling is not decided. Vote and argue: [Poll 1, who won?](https://github.com/Prime-Rogue-Inc-Corporate/force-on-force-war-journal-and-discussions/discussions/2) and [Poll 2, what happens to American support for the war?](https://github.com/Prime-Rogue-Inc-Corporate/force-on-force-war-journal-and-discussions/discussions/3)
 
 ## What happened
 
@@ -196,4 +196,4 @@ Proposed on 18 November 2026. Left open on 19 November: Kevin wants the question
 discussion before it is decided. The proposed ruling above is the model judge's position going in. Once
 decided, the rules go into the prototype and the opponent learns to guard its rear.
 
-The poll questions are in [`POLL.md`](POLL.md).
+The polls opened on 19 November 2026: [Poll 1](https://github.com/Prime-Rogue-Inc-Corporate/force-on-force-war-journal-and-discussions/discussions/2), [Poll 2](https://github.com/Prime-Rogue-Inc-Corporate/force-on-force-war-journal-and-discussions/discussions/3), and the [announcement](https://github.com/Prime-Rogue-Inc-Corporate/force-on-force-war-journal-and-discussions/discussions/1). The questions as posted are in [`POLL.md`](POLL.md).
