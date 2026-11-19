@@ -85,6 +85,13 @@ model has these nations as actors. Their governments, their treaties with both c
 both sides of the line would shape how this fight is seen, and no ruling here should assume which way. This is
 on the roadmap and in the literature review.
 
+**What the game cannot show yet.** Kevin's point, 19 November: in its current state this is hard to judge. The
+US gets no troops after turn 2, and both of its bases sit empty behind the army. Nothing can arrive to defend
+or retake them, so a Canadian force in Sweet Grass is safe unless the US pulls units back from the front. The
+argument above says such a force is exposed to whatever the US sends up from Montana, and the game has no such
+force. Until a US follow-on force is built, play cannot test whether taking Sweet Grass is a risk or a free
+move.
+
 ## Kevin's position
 
 It is embarrassing for the United States and it should lift Canadian morale. The effect has to be weighed
